@@ -1,47 +1,42 @@
-Coffee Sales Analytics Dashboard
-Project Overview
+# Coffee Sales Analytics Dashboard
 
-This project presents an interactive Power BI dashboard developed to analyze coffee shop sales data and uncover key business insights. The analysis focuses on identifying revenue trends, customer purchasing patterns, and peak sales periods. The dashboard enables stakeholders to monitor performance and make data-driven decisions related to product demand and sales timing.
+## Project Overview
+This project presents an interactive **Power BI dashboard** designed to analyze coffee shop sales data and uncover key business insights. The analysis focuses on identifying revenue trends, customer purchasing patterns, and peak sales periods. The dashboard helps stakeholders monitor sales performance and supports data-driven decision-making related to product demand and operational planning.
 
-Objectives
+---
 
-Analyze transaction-level sales data to understand revenue performance
+## Objectives
+- Analyze transaction-level sales data to evaluate overall revenue performance  
+- Identify peak sales hours and high-demand periods  
+- Compare weekday and weekend sales trends  
+- Evaluate product-level demand across different coffee categories  
 
-Identify peak sales hours and high-demand periods
+---
 
-Compare weekday and weekend sales patterns
+## Tools and Technologies
+- Power BI  
+- Power Query  
+- DAX  
+- Microsoft Excel  
 
-Evaluate product-level demand across different coffee categories
+---
 
-Tools and Technologies
+## Key Insights
+- **Total Revenue:** ₹112K  
+- **Peak Sales Hour:** 10 AM, indicating strong morning demand  
+- **Sales Trend:** Weekdays generated higher revenue compared to weekends  
+- **Top-Selling Products:** Latte and Cappuccino recorded the highest sales volumes  
 
-Power BI
-Power Query
-DAX
-Microsoft Excel
+---
 
-Key Insights
+## Dashboard Features
+- KPI cards displaying key metrics such as total revenue, cups sold, and transaction count  
+- Time-based visualizations for analyzing hourly and daily sales patterns  
+- Product category analysis to compare demand across coffee types  
+- Interactive filters allowing users to dynamically explore sales trends  
 
-Total revenue generated: ₹112K
+---
 
-The highest sales activity occurs at 10 AM, indicating a strong morning demand
-
-Weekdays generated higher revenue compared to weekends
-
-Latte and Cappuccino emerged as the top-performing products in terms of sales volume
-
-Dashboard Features
-
-KPI cards displaying total revenue, total cups sold, and transaction counts
-
-Time-based visualizations to analyze hourly and daily sales patterns
-
-Product category analysis to evaluate demand across coffee types
-
-Interactive filters enabling dynamic exploration of sales data
-
-Dashboard Preview
-
-A screenshot of the Power BI dashboard is provided below to illustrate the visual analytics and key performance indicators used in this analysis.
-
+## Dashboard Preview
+The following image shows a preview of the Power BI dashboard used for the analysis.
 <img width="1595" height="909" alt="image" src="https://github.com/user-attachments/assets/1a1f0ad3-bd74-47f4-b610-71d6866034f2" />
