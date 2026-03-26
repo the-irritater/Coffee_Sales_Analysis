@@ -68,5 +68,5 @@ The following image shows a preview of the Power BI dashboard used for the analy
 
 ## Author
 Sanman Kadam  
-MSc Statistics Student | Aspiring Data Analyst  
+MSc Statistics | Aspiring Data Analyst  
 GitHub: https://github.com/the-irritater
